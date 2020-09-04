@@ -20,23 +20,23 @@ function Navbar() {
             <div class="navbar-collapse offcanvas-collapse bg-light text-dark" id="navbarsExampleDefault">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Dashboard <span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="https://google.com">Dashboard <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Notifications</a>
+                        <a class="nav-link" href="https://google.com">Notifications</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Profile</a>
+                        <a class="nav-link" href="https://google.com">Profile</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Switch account</a>
+                        <a class="nav-link" href="https://google.com">Switch account</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Settings</a>
                         <div class="dropdown-menu" aria-labelledby="dropdown01">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <a class="dropdown-item" href="#">Something else here</a>
+                            <a class="dropdown-item" href="https://google.com">Action</a>
+                            <a class="dropdown-item" href="https://google.com">Another action</a>
+                            <a class="dropdown-item" href="https://google.com">Something else here</a>
                         </div>
                     </li>
                 </ul>
