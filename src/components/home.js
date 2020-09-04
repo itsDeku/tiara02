@@ -39,7 +39,7 @@ class Home extends React.Component {
       <div id="posts" style={{ paddingBottom: 45 }}>
         <div className="horizontalScroll">
           <div className="parentScroll scrollmenu">
-            <span className="scrollButton parentButton-1">justdo</span>
+            <span className="scrollButton parentButton-1">itsworking</span>
             <span className="scrollButton parentButton-2">photography</span>
             <span className="scrollButton parentButton-3">fasion</span>
             <span className="scrollButton parentButton-4">painting</span>
