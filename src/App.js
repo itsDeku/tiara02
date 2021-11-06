@@ -7,9 +7,9 @@ import Main from "./components/main"
 function App() {
     return (
         <div>
-            <Navbar /> 
-            <Main />
             <Footer /> 
+            <Main />
+            <Navbar /> 
         </div>
     )
 }
